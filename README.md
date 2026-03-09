@@ -2,5 +2,5 @@
 This is my first repository
 <br>
 <b>
-author- rashu rana 
+author- rashu (apna college)
 </b>
